@@ -2,21 +2,10 @@
 
 Thanks for contributing to the project!
 
-Please review and follow the [Code of Conduct](https://github.com/openzt/openzerotrust/blob/main/CODE_OF_CONDUCT.md).
-
 Contributing to the project is not limited to writing the code or submitting the PR. We will also appreciate if you can file issues, provide feedback and suggest new features.
 
 Of course, contributing the code is more than welcome!  To keep things simple, if you're fixing a small issue, you can simply submit a PR and we will pick it up. However, if you're planning to submit a bigger PR to implement a new feature or fix a relatively complex bug, please open an issue that explains the change and the motivation for it. If you're addressing a bug, please explain how to reproduce it.
 
-## Repositories
-
-Open Zero Trust project contains the following repositories.
-
-Repository | URL | Description
------------|-----|-------------
-openzerotrust | [https://github.com/openzerotrust/openzerotrust](https://github.com/openzerotrust/openzerotrust) | This repository hosts the controller and enforcer source code.
-manager | [https://github.com/openzerotrust/manager](https://github.com/openzerotrust/manager) | The repository for the admin console UI interface.
-scanner | [https://github.com/openzerotrust/scanner](https://github.com/openzerotrust/scanner) | The repository for the vulnerability scanner.
 
 ## Opening PRs and organizing commits
 
